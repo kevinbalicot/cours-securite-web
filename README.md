@@ -19,8 +19,6 @@ Réflexion : Vous venez de chiffrer un message ou un fichier. Ce procédé est r
 
 ## TP 2
 
-### Exercice 2
-
 Objectif : Hachez un mot de passe de 4 caractères (Az2f, 2e4E, dlm9 ...) avec l'algorithme `sha256`.
 
 Pour ce faire vous devez :
@@ -69,7 +67,7 @@ Réflexion : Grace aux signatures, vous pouvez maintenant authentifier l'émette
 
 ## TP 4
 
-### Exercice 1
+### Exercice 1
 
 Objectif : Créez un certificat CSR et un certificat CA
 
